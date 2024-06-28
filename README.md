@@ -1,5 +1,5 @@
 GameProgramming(Project SideScroll)
-Title : Phoenix Dash
+Title : Samurai Dash
 
 --Link itch.io--
 Link://Enter Link//
@@ -8,10 +8,15 @@ Link://Enter Link//
 Link://Enter LInk//
 
 --Asset Origin--
-1.Character
-  -[https://craftpix.net/freebies/free-wraith-tiny-style-2d-sprites/?num=1&count=3&sq=wraith&pos=2](https://chasersgaming.itch.io/pheonix)
+1.Character and Enemy
+  -https://pixelfelix.itch.io/samurai-platformer
+  -https://aimmaga.itch.io/darksamurai
 2.BackGround
-  -[https://the-outlander.itch.io/free-dungeon-backgrounds](https://free-game-assets.itch.io/free-sky-with-clouds-background-pixel-art-set)
+  -https://free-game-assets.itch.io/free-sky-with-clouds-background-pixel-art-set
+  -https://edermunizz.itch.io/free-pixel-art-forest
 3.BGM
   -//Enter Link//
+4.Traps
+  -https://gamedeveloperstudio.itch.io/floor-spikes
+  -https://jeevo.itch.io/plants
 
