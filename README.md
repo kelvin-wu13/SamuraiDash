@@ -19,4 +19,7 @@ Link://Enter LInk//
 4.Traps
   -https://gamedeveloperstudio.itch.io/floor-spikes
   -https://jeevo.itch.io/plants
+5.Checkpoint and Finish Point
+-https://ayoub-sbiti.itch.io/my-new-game-asset-image
+-https://dk-happy.itch.io/katana-ninja
 
