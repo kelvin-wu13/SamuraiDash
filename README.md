@@ -2,7 +2,7 @@ GameProgramming(Project SideScroll)
 Title : Samurai Dash
 
 --Link itch.io--
-Link://Enter Link//
+Link:[//Enter Link//](https://kelvin-wu13.itch.io/samuraidash)
 
 --Link Youtube--
 Link://Enter LInk//
