@@ -2,7 +2,7 @@ GameProgramming(Project SideScroll)
 Title : Samurai Dash
 
 --Link itch.io--
-Link://Enter Link//
+Link:[//Enter Link//](https://kelvin-wu13.itch.io/samuraidash)
 
 --Link Youtube--
 Link://Enter LInk//
@@ -15,8 +15,11 @@ Link://Enter LInk//
   -https://free-game-assets.itch.io/free-sky-with-clouds-background-pixel-art-set
   -https://edermunizz.itch.io/free-pixel-art-forest
 3.BGM
-  -//Enter Link//
+  -https://www.youtube.com/watch?v=vVgo-304da0&list=PLw9AcE2IomDO6sOyW8TbsXHorNcQCPc2J&index=4
 4.Traps
   -https://gamedeveloperstudio.itch.io/floor-spikes
   -https://jeevo.itch.io/plants
+5.Checkpoint and Finish Point
+-https://ayoub-sbiti.itch.io/my-new-game-asset-image
+-https://dk-happy.itch.io/katana-ninja
 
