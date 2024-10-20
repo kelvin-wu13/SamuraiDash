@@ -1,25 +1,49 @@
-GameProgramming(Project SideScroll)
-Title : Samurai Dash
+##SamuraiDash
+<p align="center">
+  <img width="100%" alt="" src="">
+  </br>
+</p>
 
---Link itch.io--
-Link:[//Enter Link//](https://kelvin-wu13.itch.io/samuraidash)
+## 🔴About
+Platformer game. Escape by dodging traps and defeating enemy in front of your path.
 
---Link Youtube--
-Link://Enter LInk//
+<br>
 
---Asset Origin--
-1.Character and Enemy
-  -https://pixelfelix.itch.io/samurai-platformer
-  -https://aimmaga.itch.io/darksamurai
-2.BackGround
-  -https://free-game-assets.itch.io/free-sky-with-clouds-background-pixel-art-set
-  -https://edermunizz.itch.io/free-pixel-art-forest
-3.BGM
-  -https://www.youtube.com/watch?v=vVgo-304da0&list=PLw9AcE2IomDO6sOyW8TbsXHorNcQCPc2J&index=4
-4.Traps
-  -https://gamedeveloperstudio.itch.io/floor-spikes
-  -https://jeevo.itch.io/plants
-5.Checkpoint and Finish Point
--https://ayoub-sbiti.itch.io/my-new-game-asset-image
--https://dk-happy.itch.io/katana-ninja
+## 🕹️Download Game (**Game not available yet**)
+Download game directly from GitHub.
 
+<br>
+
+## ▶️ Gameplay
+<img width="100%" src="https://github.com/kelvin-wu13/kelvin-wu13/blob/main/GIF/SamuraiDash%20-%20Made%20with%20Clipchamp.gif">
+
+<br>
+
+## 📋Project Info
+|  | |
+| ------------------- | ------------------------------------------------------------ |
+| Unity Version | Unity 2022.3.431f1 |
+| Development Time | 3 days |
+
+<br>
+## 🕹️Game controls
+
+The following controls are bound in-game, for gameplay and testing.
+
+| Key Binding (Mouse & Keyboard)       |  Function          | 
+| ----------------- | ----------------- |
+| A & D           | Standard Movement |
+| Space            | Jump |
+| MouseButton1             | Attack  |
+<br>
+
+##  📜Scripts
+
+|  Script       | Description                                                  |
+| ------------------- | ------------------------------------------------------------ |
+| `Checkpoint.cs` | Handles Checkpoint Object |
+| `FinishPoint.cs` | Handles Finish Scene |
+| `GameController.cs`  | Manage Traps and Checkpoint |
+| `Health.cs`  | Handles Player and Enemy Health |
+| `MainMenu.cs`  | Handles MainMenu Scene |
+| `SceenController.cs`  | Handles Scene |
