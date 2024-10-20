@@ -1,4 +1,4 @@
-##SamuraiDash
+#SamuraiDash
 <p align="center">
   <img width="100%" alt="" src="">
   </br>
