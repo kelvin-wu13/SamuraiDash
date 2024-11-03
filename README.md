@@ -1,50 +1,60 @@
-# SamuraiDash
+## About
+Spaceshooter themed game with powerups, Random generated Animated shooting Alien,scoring system 
 
-<p align="center">
-  <img width="100%" alt="" src="">
-  </br>
-</p>
+<tbody>
+    <tr>
+      <td><img src="https://github.com/kelvin-wu13/kelvin-wu13/blob/main/GIF/SamuraiDash.gif"/></td>
+    </tr>
+  
+<br>
 
-## 🔴About
-Platformer game. Escape by dodging traps and defeating enemy in front of your path.
+## Scripts and Features
+scripts:
+|  Script       | Description                                                  | Development Time |
+| ------------------- | ------------------------------------------------------------ | -------------- |
+| `Checkpoint.cs` | Manages Checkpoint Object | ≈ 2 hours |
+| `FinishPoint.cs` | Handles FinishPoint | ≈ 2 hours |
+| `GameController.cs`  | Manage Traps and Checkpoint | ≈ 3 hours |
+| `Health.cs`  | Handles Player and Enemy Health | ≈ 3 hours |
+| `MainMenu.cs`  | Handles MainMenu Scene | ≈ 3 hours |
+| `SceneController.cs`  | Manage Scene Changing | ≈ 3 hours |
+| `etc`  | | ≈ 8 hours |
+
+This project also uses these package:
+- Universal RP
+
+Post Processing used:
+- Bloom
+- Vignette
+- Lift Gamma Gain
+
+The game has:
+- Scoring and Highscore 
+- Power up
+- Randomly generated for Enemy Alien
+- Animation for Player and enemy alien
+- Background infinite scrolling
+- Post Processing 
 
 <br>
 
-## 🕹️Download Game (**Game not available yet**)
-Download game directly from GitHub.
-
-<br>
-
-## ▶️ Gameplay
-<img width="100%" src="https://github.com/kelvin-wu13/kelvin-wu13/blob/main/GIF/SamuraiDash%20-%20Made%20with%20Clipchamp.gif">
-
-<br>
-
-## 📋Project Info
-|  | |
-| ------------------- | ------------------------------------------------------------ |
-| Unity Version | Unity 2022.3.431f1 |
-| Development Time | 3 days |
-
-<br>
-## 🕹️Game controls
-
+## Game controls
 The following controls are bound in-game, for gameplay and testing.
 
-| Key Binding (Mouse & Keyboard)       |  Function          | 
+| Key Binding       | Function          |
 | ----------------- | ----------------- |
-| A & D           | Standard Movement |
-| Space            | Jump |
-| MouseButton1             | Attack  |
+| A and D           | Standard movement |
+| Mouse1           | Attack |
+| Spacebar           | Jump |
+
 <br>
 
-##  📜Scripts
+## Notes
+this game is developed in **Unity Editor 2022.3.31f1**
 
-|  Script       | Description                                                  |
-| ------------------- | ------------------------------------------------------------ |
-| `Checkpoint.cs` | Handles Checkpoint Object |
-| `FinishPoint.cs` | Handles Finish Scene |
-| `GameController.cs`  | Manage Traps and Checkpoint |
-| `Health.cs`  | Handles Player and Enemy Health |
-| `MainMenu.cs`  | Handles MainMenu Scene |
-| `SceenController.cs`  | Handles Scene |
+Asset used:
+- Player : https://pixelfelix.itch.io/samurai-platformer
+- Enemy : https://aimmaga.itch.io/darksamurai
+- Background : https://edermunizz.itch.io/free-pixel-art-forest
+- Traps : https://jeevo.itch.io/plants
+- Heart : https://unbreaded.itch.io/pixel-health
