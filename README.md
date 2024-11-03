@@ -1,5 +1,5 @@
 ## About
-Spaceshooter themed game with powerups, Random generated Animated shooting Alien,scoring system 
+Platformer prototype game.Include Traps,Enemy,Hearts and Checkpoint.With Polished version included
 
 <tbody>
     <tr>
