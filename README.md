@@ -29,11 +29,11 @@ Post Processing used:
 - Lift Gamma Gain
 
 The game has:
-- Scoring and Highscore 
-- Power up
-- Randomly generated for Enemy Alien
-- Animation for Player and enemy alien
-- Background infinite scrolling
+- Camera Follow using Virtual Camera
+- Checkpoint
+- Traps
+- Movement Mechanic
+- Player and Enemy Animation
 - Post Processing 
 
 <br>
